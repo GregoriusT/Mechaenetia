@@ -13,15 +13,6 @@ Setup a Localization Library, because I don't want to accidentially miss any loc
 
 Setup Amethyst and make a Basic Launcher UI.
 
-<<<<<<< HEAD
-Make a proper ReadMe once more stuff such as libraries has been set up.
-
-
-
-
-This Message is a Test
-=======
 Setup a Default Workspace of sorts.
 
 Make a proper ReadMe once more stuff such as Libraries has been set up.
->>>>>>> upstream/master
